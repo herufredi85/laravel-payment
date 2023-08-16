@@ -44,9 +44,11 @@ Migrate database
 php artisan migrate
 ```
 
+
 run Application
 ```bash
 php artisan serve
 ```
 
 ## Link Postman Documentation
+https://documenter.getpostman.com/view/10356003/2s9Xy6rVyW
