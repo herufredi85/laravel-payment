@@ -3,7 +3,7 @@
 ```bash
 git clone https://github.com/herufredi85/laravel-payment.git
 
-in branch master
+in branch main
 ```
 
 ### Setup Application
@@ -24,7 +24,7 @@ Configuration file .env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=laravelblog
+DB_DATABASE=laravelpayment
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -34,7 +34,6 @@ APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=base64:QGRW4K7UVzS2M5HE2ZCLlUuiCtOIzRSfb38iWApkphE=
 APP_DEBUG=true
-APP_URL=http://example-app.test
 ```
 Generate key
 ```bash
